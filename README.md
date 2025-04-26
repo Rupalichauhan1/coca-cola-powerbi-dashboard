@@ -1,5 +1,4 @@
-# coca-cola-powerbi-dashboard
-
+# coca-cola-powerbi-dashboard 
 This project presents an interactive sales dashboard built using **Power BI**, based on Coca-Cola's hypothetical sales data.
 The dashboard provides key insights into:
 - Overall Sales Performance
