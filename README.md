@@ -8,14 +8,12 @@ The dashboard provides key insights into:
 - Key KPIs and Metrics Visualization
 
 ## 📊 About the Project
-
 The goal of this dashboard is to:
 - Monitor sales data in real time.
 - Help stakeholders make data-driven decisions.
 - Provide clear visual insights into sales trends and performance breakdowns.
 
 ## 🛠️ Built With
-
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Modeling and Visualization Techniques
